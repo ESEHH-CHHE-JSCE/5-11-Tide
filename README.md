@@ -1,5 +1,5 @@
 # 5-11-Tide
-forward and inverse calculation of astronomical tide
+forward and inverse calculation of astronomical tides
 
 # 実行方法1
 1. 次のURLを開く
