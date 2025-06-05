@@ -1,4 +1,6 @@
-# 5-11-Tide: Forward and inverse calculation of astronomical tides
+# Forward and inverse calculation of astronomical tides
+
+![Image](https://github.com/user-attachments/assets/6975316c-ee2b-4892-9579-38746440f155)
 
 ## How to Run (Method 1)
 
@@ -42,3 +44,5 @@ Click here >>> [![Open In Colab](https://colab.research.google.com/assets/colab-
 1. セルを選択し、Runボタンをクリックすることでセルに書かれたコードが実行される（キーボードにてShift+Enterでも実行できる）。
 
 1. 上から順番にセルを実行することで例題の解法に対応したプログラムが実行され、図が表示される。
+
+![Image](https://github.com/user-attachments/assets/ec41a7c3-0e49-4811-aa24-a75e3c4ba050)
