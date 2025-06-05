@@ -2,8 +2,7 @@
 
 ## How to Run (Method 1)
 
-1. Open the following URL:
-<https://colab.research.google.com/github/ESEHH-CHHE-JSCE/5-11-Tide/blob/main/5-11-Tide-ENG.ipynb>
+Click here >>> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ESEHH-CHHE-JSCE/5-11-Tide/blob/main/5-11-Tide-ENG.ipynb)
 
 1. The file will open in your browser, and you will see a vertically arranged series of code cells.
 
@@ -26,8 +25,7 @@
 
 ## 実行方法1
 
-1. 次のURLを開く
-<https://colab.research.google.com/github/ESEHH-CHHE-JSCE/5-11-Tide/blob/main/5-11-Tide-JPN.ipynb>
+ここをクリック >>> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ESEHH-CHHE-JSCE/5-11-Tide/blob/main/5-11-Tide-JPN.ipynb)
 
 1. ブラウザでファイルが開かれ、コードが書かれたセルが縦に並んだ画面が表示される
 
