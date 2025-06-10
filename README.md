@@ -45,4 +45,6 @@ Click here >>> [![Open In Colab](https://colab.research.google.com/assets/colab-
 
 1. 上から順番にセルを実行することで例題の解法に対応したプログラムが実行され、図が表示される。
 
-![Image](https://github.com/user-attachments/assets/ec41a7c3-0e49-4811-aa24-a75e3c4ba050)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ec41a7c3-0e49-4811-aa24-a75e3c4ba050" />
+</p>
